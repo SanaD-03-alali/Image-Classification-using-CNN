@@ -13,6 +13,10 @@ The CNN model consists of 6 convolutional layers with the following feature map 
 - 512 → 512
 - 512 → 512
 
+The model also includes:
+- 1 fully connected layer with 1024 units
+- 1 output layer
+
 The model incorporates batch normalization and max pooling with these hyperparameters:
 - Kernel size: 3
 - Stride: 1
