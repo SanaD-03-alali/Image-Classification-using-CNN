@@ -36,4 +36,4 @@ The performance of the models is summarized below:
 
 ## Download Model
 
-You can download the trained model [here](https://github.com/your-github-username/your-repo-name/raw/main/vegetable_classification_model.rar).
+You can download the trained model [here](https://github.com/SanaD-03-alali/Image-Classification-using-CNN/raw/main/vegetable_classification_model.rar).
