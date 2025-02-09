@@ -34,4 +34,6 @@ The performance of the models is summarized below:
 | **My Model**  | **97.09%**     | **96.37%**          | **96.07%**    |
 | **ResNet-101**| **98.44%**     | **98.69%**          | **98.32%**    |
 
-You can download the model after running the code on the dataset.
+## Download Model
+
+You can download the trained model [here](https://github.com/your-github-username/your-repo-name/raw/main/vegetable_classification_model.rar).
